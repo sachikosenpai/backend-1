@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\second task\convertapp\bin\Debug\net5.0\convertapp.exe
+C:\Users\hp\Desktop\second task\convertapp\bin\Debug\net5.0\convertapp.deps.json
+C:\Users\hp\Desktop\second task\convertapp\bin\Debug\net5.0\convertapp.runtimeconfig.json
+C:\Users\hp\Desktop\second task\convertapp\bin\Debug\net5.0\convertapp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\second task\convertapp\bin\Debug\net5.0\convertapp.dll
+C:\Users\hp\Desktop\second task\convertapp\bin\Debug\net5.0\ref\convertapp.dll
+C:\Users\hp\Desktop\second task\convertapp\bin\Debug\net5.0\convertapp.pdb
+C:\Users\hp\Desktop\second task\convertapp\obj\Debug\net5.0\convertapp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\second task\convertapp\obj\Debug\net5.0\convertapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\second task\convertapp\obj\Debug\net5.0\convertapp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\second task\convertapp\obj\Debug\net5.0\convertapp.AssemblyInfo.cs
+C:\Users\hp\Desktop\second task\convertapp\obj\Debug\net5.0\convertapp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\second task\convertapp\obj\Debug\net5.0\convertapp.dll
+C:\Users\hp\Desktop\second task\convertapp\obj\Debug\net5.0\ref\convertapp.dll
+C:\Users\hp\Desktop\second task\convertapp\obj\Debug\net5.0\convertapp.pdb
+C:\Users\hp\Desktop\second task\convertapp\obj\Debug\net5.0\convertapp.genruntimeconfig.cache
